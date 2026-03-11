@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "description": "Easy and Fast StartUp development kit",
+  "description": "Tenemently root monorepo",
   "private": true,
   "repository": "https://github.com/open-condo-software/condo",
   "homepage": "https://github.com/open-condo-software/condo",

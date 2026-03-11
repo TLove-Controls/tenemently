@@ -2446,7 +2446,7 @@
   "pages.condo.news.steps.review.newsItemCard.validBeforeLabel": "Actual until",
   "pages.condo.news.steps.review.title": "Your news",
   "pages.condo.news.steps.selectApps": "Apps",
-  "pages.condo.news.steps.sharingApp.notSupported": "Condo does not support this miniapp",
+  "pages.condo.news.steps.sharingApp.notSupported": "Tenemently does not support this miniapp",
   "pages.condo.news.steps.sharingApp.recipientsAlert": "News will be sent to houses, flats and sections selected on a previous step. Please go back if you need to change them",
   "pages.condo.news.steps.sharingApp.recipientsLabel": "Recipients",
   "pages.condo.news.steps.skipLabelLong": "Skip sending news to {appName}",

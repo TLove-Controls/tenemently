@@ -10,7 +10,7 @@ import { name } from './package.json'
 
 import type { NextConfig } from 'next'
 
-const appName = name
+const appName = 'Tenemently'
 const serverUrl = process.env.SERVER_URL || 'http://localhost:3000'
 const apolloGraphQLUrl = `${serverUrl}/admin/api`
 const addressServiceUrl = conf['ADDRESS_SERVICE_URL']

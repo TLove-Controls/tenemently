@@ -1,4 +1,4 @@
-# CONDO
+# TENEMENTLY
 
 [Condo](https://github.com/open-condo-software/condo) is an Open Source property management SaaS 
 that allows users to manage tickets, resident contacts, properties, 
@@ -6,7 +6,7 @@ payment tracking, create invoices, and oversee a service marketplace,
 all while offering an extension system for mini-apps, 
 making it an ideal platform for property management companies and those servicing shared properties.
 
-![condo](./docs/images/condo-preview.png)
+![tenemently](./docs/images/condo-preview.png)
 
 ## Table of contents
 - [Getting started](#getting-started)

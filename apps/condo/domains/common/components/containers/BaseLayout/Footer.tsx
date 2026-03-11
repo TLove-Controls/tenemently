@@ -27,7 +27,12 @@ export const Footer: React.FC = () => {
         <Layout.Footer
             className={styles.footer}
         >
-            <Row justify='end'>
+            <Row justify='end' align='middle' style={{ gap: '16px' }}>
+                <Col>
+                    <span style={{ color: 'var(--condo-global-color-gray-7, #828797)', fontSize: '12px' }}>
+                        Powered by <a href="https://github.com/open-condo-software/condo" target="_blank" rel="noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>Condo (MIT License)</a>
+                    </span>
+                </Col>
                 {
                     localizedFooterConfig?.privacyPolicyLink &&
                     <Col>
